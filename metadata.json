@@ -1,0 +1,5 @@
+{
+  "name": "APSC Aspirants Smart Toolkit",
+  "description": "A comprehensive, modern web application designed to provide APSC (Assam Public Service Commission) aspirants with a suite of essential tools for their exam preparation. Features include a syllabus navigator, current affairs reader, AI-powered MCQ generator, notes organizer, and more, all wrapped in a high-class, responsive UI.",
+  "requestFramePermissions": []
+}
